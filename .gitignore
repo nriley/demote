@@ -1,0 +1,14 @@
+# user files
+*.suo
+*.user
+
+# build results
+Debug/
+Release/
+
+# VS caches
+ipch/
+*.sdf
+
+# emacs stuff
+*~
